@@ -1,0 +1,35 @@
+Variable Declaration Rules in Java
+A variable in Java is a named memory location used to store data values. Before using a variable, we must declare it with a data type and a variable name.
+1. Syntax:
+data_type variable_name = value;
+Example:
+int age = 20;
+float salary = 15000.5f;
+String name = "Ravi";
+2.Rules for Declaring Variables
+1.Variable names must start with a letter, underscore (_) or dollar sign ($).
+Example: age, _number, $price
+2.Variable names cannot start with a digit.
+Valid: num1
+Invalid: 1num
+3.Spaces are not allowed in variable names.
+Valid: studentName
+Invalid: student name
+4.Java keywords cannot be used as variable names.
+Valid: number
+Invalid: int, class, public
+5.Variable names are case-sensitive.
+Example: age, Age, and AGE are different variables.
+6.Special characters are not allowed except underscore (_) and dollar sign ($).
+Valid: total_marks
+Invalid: total@marks
+7.A variable must be declared with a data type.
+Example: int number;
+8.A variable can be initialized during declaration.
+Example: int marks = 90;
+9.A variable can be declared first and initialized later.
+Example:
+int number;
+number = 100;
+10.A variable name should be meaningful and readable.
+Example: studentAge instead of x.
