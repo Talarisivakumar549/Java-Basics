@@ -1,0 +1,10 @@
+Scanner method     Example      Return type
+---------------    --------    -------------
+nextInt()           25           int
+nextLong()         9876543210L   long
+nextFloat()         85.5f        float
+nextDouble()        25000.75     double
+next()                venu        String
+nextLine()          Hello Java    String
+next().chatAt(0)     A             char
+nextBoolean()        true          Boolean
