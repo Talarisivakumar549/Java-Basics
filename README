@@ -11,14 +11,14 @@ Main Reasons for Creating Java:
 7.Multithreading: Java allows multiple tasks to run simultaneously.
 8.Internet Applications: Java was designed to support network-based and internet applications.
 Important Features of Java:
-Simple
-Secure
-Platform Independent
-Portable
-Object-Oriented
-Robust
-Multithreaded
-High Performance
+* Simple
+* Secure
+* Platform Independent
+* Portable
+* Object-Oriented
+* Robust
+* Multithreaded
+* High Performance
 Example:
 A Java program written on Windows can also run on Linux or macOS without changing its source code, provided a compatible Java Runtime Environment is available.
 Conclusion:
