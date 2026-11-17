@@ -1,0 +1,47 @@
+control statements
+
+3 statements
+1.Conditional:
+  4 types
+    * If 
+Syntax:
+if condition{
+// block of code
+
+    * If else
+Syntax:
+if (condition) {
+    //block of code
+} else {
+    //block of code
+}
+
+    * If else if ladder
+Syntax:
+if (condition)1 { 
+    //block of code
+} 
+else  if condition2 { 
+    //block of code
+} 
+else  if condition3 { 
+    //block of code
+}
+else  if condition4 { 
+    //block of code
+}
+else{
+//  block of code
+}
+
+2.Looping:
+ 3 types
+   * For
+   * While
+   * Do while
+
+3.Jumping :
+  3 types
+   * Continue
+   * Break
+   * Return
