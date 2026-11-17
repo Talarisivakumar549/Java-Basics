@@ -2,7 +2,7 @@ control statements
 
 3 statements
 1.Conditional:
-  4 types
+  5 types
     * If 
 Syntax:
 if condition{
@@ -32,6 +32,31 @@ else  if condition4 {
 }
 else{
 //  block of code
+}
+
+   * switch
+Syntax:
+switch(Condition 1) {
+    case value1:
+        // block of code
+        break;
+    case value2:
+        // block of code
+        break;
+          .
+          .
+          .  
+    case value n:
+        // statements
+        break;
+
+   * Nested if
+Syntax:
+if (condition1) {
+    if (condition2) {
+        // block of code 2
+    }
+        // block of code 2
 }
 
 2.Looping:
