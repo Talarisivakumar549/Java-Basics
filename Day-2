@@ -1,8 +1,11 @@
 control statements
 
 3 statements
+
 1.Conditional:
+
   5 types
+
     * If 
 Syntax:
 if condition{
@@ -60,10 +63,31 @@ if (condition1) {
 }
 
 2.Looping:
- 3 types
+
+ 3 types                                                                                                                                                     
+
    * For
+Syntax:
+for (initialization; condition; increment/decrement) {
+    // Statements;
+}
+
    * While
+Syntax:
+Intilize variable
+while(Condition) {
+  //Statement;
+// ++ / --;
+}
+
    * Do while
+Syntax:
+Do {
+Intialize;
+//Statement;
+// ++ (**) --;
+}
+While(Condition);
 
 3.Jumping :
   3 types
