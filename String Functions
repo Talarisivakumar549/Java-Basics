@@ -1,0 +1,53 @@
+String Functions :
+
+## 1.Lenght()
+return the no of charecters in a string
+
+java
+String s = " java " ;
+System.out.println(s.length());
+output : 4
+
+## 2.CharAt()
+return the no of charecter at a specified index
+
+java
+String s = " java " ;
+System.out.println(s.charAt(1));
+output : 2
+
+## 3.ToUpperCase()
+convert all charecters into a upper case
+
+java
+String s = " java " ;
+System.out.println(s.uppercase());
+output : JAVA
+
+## 4.ToLowercase()
+convert all charecters into a lower case
+
+java
+String s = " JAVA " ;
+System.out.println(s.tolowercase());
+output : java
+
+## 5.Equals()
+compare two strings based on their content
+
+java
+String a = " java " ;
+String b = " java " ;
+System.out.println(a.equals(b));
+output : true
+
+## 6.equalsIgnoreCase()
+compares Strings without considering uppercase or lowercase difference
+
+java
+ String a = "JAVA";
+ String b = "java";
+ System.out.println(a.equalsIgnoreCase(b));
+output : true
+
+
