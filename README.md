@@ -20,7 +20,11 @@ Important Features of Java:
 * Robust
 * Multithreaded
 * High Performance
+
+
 Example:
 A Java program written on Windows can also run on Linux or macOS without changing its source code, provided a compatible Java Runtime Environment is available.
+
+
 Conclusion:
 Java was created to develop a simple, secure, reliable, and platform-independent programming language that can run on different devices and operating systems.
