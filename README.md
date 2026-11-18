@@ -1,4 +1,6 @@
 Why was java created?
+
+
 Java was created by James Gosling and his team at Sun Microsystems in 1991. It was officially released in 1995.
 The main purpose of creating Java was to develop a programming language that could run on different types of devices and operating systems without changing the program.
 Main Reasons for Creating Java:
