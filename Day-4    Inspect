@@ -1,10 +1,76 @@
 Inspect :
+
 1.length()    obj.lenght()
 2.charAt()    obj.charAt()
 3.isempty()   obj.isempty()
 4.isblank()   obj.isblank()
 
 
+
+
+Extract by index :
+
+substring() : str.substring(0,11)
+
+indexof() : str.indexof("s")
+
+
+
+
+Compare :
+
+equals()   ( = = )
+   str.equal(str)
+    ("siva")
+
+
+CompareTo()   ( > < )
+   str.compareTo(str)
+   ("vamsi")  
+
+Find : 
+1.contains()
+   ex: str.contain("@")
+
+2.Startwith()
+   ex: str.startwith("siva")
+
+3.endwith()
+   ex:str.endwith(".com")
+
+4.transform()
+it has 4 type
+1.trim()    
+str="siva"
+str.trim()
+
+2.strip()
+ex: si   va
+siva
+
+3.concate()
+ex:str.concate("siva","kumar")
+sivakumar
+
+4.repeat()
+ex:str.repear(2)
+siva
+siva
+
+
+
+replace :
+1.replace()
+2.replaceall()
+3.replacefirst()
+4.split()
+5.join()
+6.TocharArray()
+
+
+
+Matches()
+formattes()
 
 
 
