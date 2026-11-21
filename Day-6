@@ -1,0 +1,5 @@
+JAVA COLLECTION FRAMEWORK : 
+1.what is java collection framework
+  The Java Collection Framework (JCF) is a set of predefined classes and interfaces in Java used to store, manage, and manipulate groups of objects (data) efficiently.
+
+In simple words, instead of creating multiple variables to store data, we can use collections to store and manage multiple values together.
